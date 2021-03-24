@@ -5,7 +5,7 @@ I like to program and solve problems of several fields, but APIs are my strongho
 Love to tweak my programming workflow and develop tools to make it better.
 Value knowledge and curiosity, titles are worthless for me. 
 
-- 🔭 I’m currently working on my personal [blog][https://www.codemantid.com]!
+- 🔭 I’m currently working on my personal [blog](https://www.codemantid.com)!
 - 🌱 Learning Elixir and german language
 - 👯 I’m looking to collaborate with open source projects
 
@@ -18,7 +18,7 @@ Value knowledge and curiosity, titles are worthless for me.
 
 ---
 
-### 📚 Visit my blog: https://codemantid.com
+### 📚 Visit my [blog](https://codemantid.com)
 ---
 
 <img align="left" alt="Codemantid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codemantid&show_icons=true&hide_border=true" />
