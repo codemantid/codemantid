@@ -3,7 +3,7 @@
 ## Programmer, independent researcher and polymath in training
 I like to program and solve problems of several fields, but APIs are my stronghold.
 Love to tweak my programming workflow and develop tools to make it better.
-Value knowledge and curiosity, titles are worthless for me. 
+Value knowledge and curiosity over titles.
 
 - 🔭 I’m currently working on my personal [blog](https://codemantid.com)!
 - 🌱 Learning Elixir and german language
