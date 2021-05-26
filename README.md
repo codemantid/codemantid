@@ -1,9 +1,17 @@
-### Hi there, I'm Codemantid 👋
+<img src='https://github.com/codemantid/codemantid/raw/main/assets/gifs/codemantid.gif' width='415"'>
 
-## Programmer, independent researcher and polymath in training
+
+---
+
+
+<img align='right' src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/readme.gif' width='415"'>
+
+### Programmer, independent researcher and polymath in training
 I like to program and solve problems of several fields, but APIs are my stronghold.
 Love to tweak my programming workflow and develop tools to make it better.
 Value knowledge and curiosity over titles.
+
+<img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'>
 
 - 🔭 I’m currently working on my personal [blog](https://codemantid.com)!
 - 🌱 Learning Elixir and german language
@@ -18,10 +26,14 @@ Value knowledge and curiosity over titles.
 
 ---
 
-### 📚 Visit my [blog](https://codemantid.com)
+### 📚 Visit my [blog](https://codemantid.com) 
+
 ---
 
 <img align="left" alt="Codemantid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codemantid&show_icons=true&hide_border=true" />
+
+<img align='right' src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/images/pixel_art_computer.jpeg' width='350'>
+
 
 [website]: https://codemantid.com
 [twitter]: https://twitter.com/codemantid
