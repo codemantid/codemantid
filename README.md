@@ -1,5 +1,4 @@
-<img src='https://github.com/codemantid/codemantid/raw/main/assets/gifs/codemantid.gif' width='415"'>
-
+<img src='https://github.com/codemantid/codemantid/raw/main/assets/gifs/codemantid.gif' width='415"'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'>
 
 ---
 
@@ -9,9 +8,7 @@
 ### Programmer, independent researcher and polymath in training
 I like to program and solve problems of several fields, but APIs are my stronghold.
 Love to tweak my programming workflow and develop tools to make it better.
-Value knowledge and curiosity over titles.
-
-<img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'> 
+Value knowledge and curiosity over titles. 
 
 - 🔭 I’m currently working on my personal [blog](https://codemantid.com)!
 - 🌱 Learning Elixir and german language
