@@ -1,4 +1,4 @@
-<img src='https://github.com/codemantid/codemantid/raw/main/assets/gifs/codemantid.gif' width='415"'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'>
+<img src='https://github.com/codemantid/codemantid/raw/main/assets/gifs/codemantid.gif' width='415'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'>
 
 ---
 
@@ -26,10 +26,11 @@ Value knowledge and curiosity over titles.
 ### 📚 Visit my [blog](https://codemantid.com) 
 
 ---
+<div align="center">
+    <img height="170" alt="Codemantid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codemantid&show_icons=true&hide_border=true&theme=merko&hide_rank=false&count_private=true" />
 
-<img align ="left" height="195" alt="Codemantid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codemantid&show_icons=true&hide_border=true&theme=merko&hide_rank=false&count_private=true" />
-
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemantid&layout=compact&theme=merko" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemantid&layout=compact&theme=merko"/>
+</div>
 
 [website]: https://codemantid.com
 [twitter]: https://twitter.com/codemantid
