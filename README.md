@@ -3,7 +3,7 @@
 ---
 
 
-<img align='right' src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/readme.gif' width='415"'>
+<img align='right' src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/readme.gif' width='390"'>
 
 ### Programmer, independent researcher and polymath in training
 I like to program and solve problems of several fields, but APIs are my stronghold.
@@ -27,12 +27,9 @@ Value knowledge and curiosity over titles.
 
 ---
 
-<img align ="left" height="180" alt="Codemantid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codemantid&show_icons=true&hide_border=true&theme=merko&hide_rank=true&count_private=true" />
+<img align ="left" height="195" alt="Codemantid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codemantid&show_icons=true&hide_border=true&theme=merko&hide_rank=false&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemantid&layout=compact&theme=merko" /> <img align='right' src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/images/pixel_art_computer.jpeg' width='240'>
-
-
-
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemantid&layout=compact&theme=merko" />
 
 [website]: https://codemantid.com
 [twitter]: https://twitter.com/codemantid
