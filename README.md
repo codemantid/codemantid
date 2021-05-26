@@ -27,9 +27,11 @@ Value knowledge and curiosity over titles.
 
 ---
 
-<img align="left" alt="Codemantid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codemantid&show_icons=true&hide_border=true&theme=merko" />
+<img align ="left" height="180" alt="Codemantid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codemantid&show_icons=true&hide_border=true&theme=merko&hide_rank=true&count_private=true" />
 
-<img align='right' src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/images/pixel_art_computer.jpeg' width='300'>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemantid&layout=compact&theme=merko" /> <img align='right' src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/images/pixel_art_computer.jpeg' width='240'>
+
+
 
 
 [website]: https://codemantid.com
