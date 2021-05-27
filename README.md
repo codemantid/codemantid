@@ -1,4 +1,4 @@
-<img src='https://github.com/codemantid/codemantid/raw/main/assets/gifs/codemantid.gif' width='415'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis.gif' width='75px'>
+<img src='https://github.com/codemantid/codemantid/raw/main/assets/gifs/codemantid.gif' width='415'> <img src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/mantis_without_bg.gif' width='75px'>
 
 ---
 
