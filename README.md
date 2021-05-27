@@ -5,7 +5,7 @@
 
 <img align='right' src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/readme.gif' width='390"'>
 
-### Programmer, independent researcher and polymath in training
+### > Programmer, independent researcher and polymath in training
 I like to program and solve problems of several fields, but APIs are my stronghold.
 Love to tweak my programming workflow and develop tools to make it better.
 Value knowledge and curiosity over titles. 
@@ -14,7 +14,7 @@ Value knowledge and curiosity over titles.
 - 🌱 Learning Elixir and german language
 - 👯 I’m looking to collaborate with open source projects
 
-### Ping me:
+### > Ping me
 
 [<img align="left" alt="codemantid.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codemantid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -23,7 +23,7 @@ Value knowledge and curiosity over titles.
 
 ---
 
-### 📚 Visit my [blog](https://codemantid.com) 
+### > Visit my [blog](https://codemantid.com) 📚
 
 ---
 <div align="center">
