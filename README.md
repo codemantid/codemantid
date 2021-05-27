@@ -29,7 +29,7 @@ Value knowledge and curiosity over titles.
 <div align="center">
     <img height="170" alt="Codemantid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codemantid&show_icons=true&hide_border=true&theme=merko&hide_rank=true&count_private=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemantid&layout=compact&theme=merko"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemantid&layout=compact&theme=merko&hide_border=true"/>
 </div>
 
 [website]: https://codemantid.com
