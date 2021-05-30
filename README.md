@@ -5,14 +5,17 @@
 
 <img align='right' src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/readme.gif' width='390"'>
 
-### > Programmer, independent researcher and polymath in training
-I like to program and solve problems of several fields, but APIs are my stronghold.
-Love to tweak my programming workflow and develop tools to make it better.
-Value knowledge and curiosity over titles. 
+### > Programmer, independent researcher and aspiring polymath
 
-- 🔭 I’m currently working on my personal [blog](https://codemantid.com)!
-- 🌱 Learning Elixir and german language
-- 👯 I’m looking to collaborate with open source projects
+&nbsp;&nbsp;&nbsp;:green_heart: &nbsp; Backend Development, Databases and APIs
+
+&nbsp;&nbsp;&nbsp;:space_invader: &nbsp; Currently working on my indie game and as a Freelancer
+
+&nbsp;&nbsp;&nbsp;:gear: &nbsp; Learning Elixir and german language
+
+&nbsp;&nbsp;&nbsp;:robot: &nbsp; Automation junkie. If a task becomes routine I automate it
+
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; Coding since 2011 and living of it 5+ years
 
 ### > Ping me
 
