@@ -2,7 +2,6 @@
 
 ---
 
-
 <img align='right' src='https://raw.githubusercontent.com/codemantid/codemantid/main/assets/gifs/readme.gif' width='390"'>
 
 ### > Programmer, independent researcher and aspiring polymath
@@ -17,13 +16,13 @@
 
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; Coding since 2011 and living of it 5+ years
 
-### > Ping me
+### > Ping me 
 
-[<img align="left" alt="codemantid.com" width="30px" src="https://github.com/codemantid/codemantid/blob/main/assets/icons/website_icon%20(copy).png" />][website]
+<a href="https://codemantid.com"><img align="left" alt="codemantid.com" width="30px" src="https://github.com/codemantid/codemantid/blob/main/assets/icons/website_icon%20(copy).png" /><a>
 
-[<img align="left" alt="codemantid | Twitter" width="30px" src="https://github.com/codemantid/codemantid/blob/main/assets/icons/twitter_icon%20(copy).png" />][twitter]
+<a href="https://twitter.com/codemantid"><img align="left" alt="codemantid | Twitter" width="30px" src="https://github.com/codemantid/codemantid/blob/main/assets/icons/twitter_icon%20(copy).png" /></a>
 
-<br />
+<a href="mailto:codemantid at tutanota dot com?subject=Hey%20Code%20Mantid"><img alt="codemantid | email" width="30px" src="https://github.com/codemantid/codemantid/blob/main/assets/icons/email_icon%20(copy).png" /></a>
 
 ---
 
@@ -35,9 +34,6 @@
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemantid&layout=compact&theme=merko&hide_border=true"/>
 </div>
-
-[website]: https://codemantid.com
-[twitter]: https://twitter.com/codemantid
 
 
 
