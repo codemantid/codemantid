@@ -25,7 +25,7 @@
 <a href="mailto:codemantid at tutanota dot com?subject=Hey%20Code%20Mantid"><img alt="codemantid | email" width="30px" src="https://github.com/codemantid/codemantid/blob/main/assets/icons/email_icon%20(copy).png" /></a>
 
 <details>
-    <summary><b>:computer: &nbsp;Languages</b></summary>
+    <summary><b>:technologist: &nbsp;Languages</b></summary>
 
 <h4> Some languages I've worked, contributed to projects or have experience with: </h4>
 
