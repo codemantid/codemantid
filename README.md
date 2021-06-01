@@ -75,7 +75,7 @@
 <h5>For my sanity's sake, I hereby end this README, otherwise things would start getting awfully bloated with arcane magic I don't even remember in detail anymore, like TLA+ or ARM Assembly 😆</h5>
 </details> 
 
-#### > Let's chat, ping me somewhere
+### > Let's chat, ping me somewhere
 
 <a href="https://codemantid.com"><img align="left" alt="codemantid.com" width="25px" src="https://github.com/codemantid/codemantid/blob/main/assets/icons/website_icon%20(copy).png" /><a>
 
