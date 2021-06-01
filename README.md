@@ -22,7 +22,7 @@
 
 <h4> Some tech I've worked, contributed to projects or have experience with </h4>
 
-<h5> Constantly working or coding with </h5>
+<h5> Constantly working or coding </h5>
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)&nbsp;
@@ -46,7 +46,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
 
-<h5> Worked with for years or months </h5>
+<h5> Worked for years or months </h5>
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)&nbsp;
